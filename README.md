@@ -1,4 +1,4 @@
-# Artichoke Chat <img src="/public/images/artichoke.ico" height="50" width="50">
+# Artichoke Chat 
 A simple green themed web chat made to learn Node.js and Network Programming<br>
 Deployed on Heroku https://arti-chat.herokuapp.com/ <br>
 Safari and IE are not supported!
@@ -39,4 +39,4 @@ Safari and IE are not supported!
 * Gathering front-end and back-end together
 
 # License 📑 
-(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
+(c) 2022 Shivam Dhiraj
